@@ -1,10 +1,15 @@
 <application>
+  <component name="AdvancedExpressionFoldingSettings">
+    <option name="getExpressionsCollapse" value="false" />
+    <option name="getSetExpressionsCollapse" value="false" />
+    <option name="slicingExpressionsCollapse" value="false" />
+  </component>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+  </component>
   <component name="CodeInsightSettings">
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseAccessors" value="true" />
   </component>
 </application>
