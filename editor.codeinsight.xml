@@ -3,6 +3,7 @@
     <option name="getExpressionsCollapse" value="false" />
     <option name="getSetExpressionsCollapse" value="false" />
     <option name="slicingExpressionsCollapse" value="false" />
+    <option name="varExpressionsCollapse" value="false" />
   </component>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
