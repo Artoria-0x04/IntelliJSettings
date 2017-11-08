@@ -2,6 +2,7 @@
   <component name="AdvancedExpressionFoldingSettings">
     <option name="getExpressionsCollapse" value="false" />
     <option name="getSetExpressionsCollapse" value="false" />
+    <option name="rangeExpressionsCollapse" value="false" />
     <option name="slicingExpressionsCollapse" value="false" />
     <option name="varExpressionsCollapse" value="false" />
   </component>
@@ -12,6 +13,12 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseArrayLiterals" value="true" />
+    <option name="collapseObjectLiterals" value="true" />
+    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
+    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
