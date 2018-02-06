@@ -66,6 +66,7 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="fad5b7f3-a581-47db-a048-a10822ff55e3" />
+                      <option name="inputFilter" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
