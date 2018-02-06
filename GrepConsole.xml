@@ -64,6 +64,23 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*INFO.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="c07dd715-c31d-4fae-bcc0-6e335a7670e7" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f9733cad-18ee-40a1-a55d-2127abbe6a04" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="fad5b7f3-a581-47db-a048-a10822ff55e3" />
                       <option name="inputFilter" value="true" />
