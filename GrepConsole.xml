@@ -5,7 +5,6 @@
         <Profile>
           <option name="defaultProfile" value="true" />
           <option name="enableFoldings" value="true" />
-          <option name="filterOutBeforeGrep" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -101,8 +100,6 @@
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="fa969552-6dd6-4985-b4d0-cc21dbf8a735" />
                       <option name="inputFilter" value="true" />
-                      <option name="showCountInConsole" value="true" />
-                      <option name="showCountInStatusBar" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
