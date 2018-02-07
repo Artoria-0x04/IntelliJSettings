@@ -119,7 +119,7 @@
             </list>
           </option>
           <option name="id" value="1517882606704" />
-          <option name="maxLengthToGrep" value="100" />
+          <option name="maxLengthToGrep" value="50" />
           <option name="multilineInputFilter" value="true" />
           <option name="name" value="default" />
         </Profile>
