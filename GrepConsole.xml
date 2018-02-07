@@ -95,7 +95,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="fold" value="true" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="fa969552-6dd6-4985-b4d0-cc21dbf8a735" />
                       <option name="style">
