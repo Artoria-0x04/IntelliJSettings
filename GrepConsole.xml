@@ -80,6 +80,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="fold" value="true" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="fad5b7f3-a581-47db-a048-a10822ff55e3" />
                       <option name="style">
@@ -95,6 +96,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="fold" value="true" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="fa969552-6dd6-4985-b4d0-cc21dbf8a735" />
                       <option name="style">
